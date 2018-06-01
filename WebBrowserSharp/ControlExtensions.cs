@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace WebBrowser
+namespace WebBrowserSharp
 {
     public static class ControlExtensions
     {

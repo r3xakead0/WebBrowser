@@ -5,7 +5,7 @@ using System.Text;
 using CefSharp;
 using log4net;
 
-namespace WebBrowser
+namespace WebBrowserSharp
 {
     
     static class Program
@@ -31,7 +31,7 @@ namespace WebBrowser
                 };
 
                 //Perform dependency check to make sure all relevant resources are in our output directory.
-                Cef.Initialize(settings, false, true);
+                Cef.Initialize(settings);
 
                 var browser = new FrmBrowser();
 

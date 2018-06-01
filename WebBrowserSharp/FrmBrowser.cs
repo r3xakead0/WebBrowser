@@ -6,7 +6,7 @@ using CefSharp;
 using CefSharp.WinForms;
 using log4net;
 
-namespace WebBrowser
+namespace WebBrowserSharp
 {
     public partial class FrmBrowser : Form
     {

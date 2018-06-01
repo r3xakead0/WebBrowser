@@ -1,7 +1,7 @@
 ﻿using CefSharp.WinForms;
 using CefSharp;
 
-namespace WebBrowser
+namespace WebBrowserSharp
 {
     public class LifeSpanHandler : ILifeSpanHandler
     {

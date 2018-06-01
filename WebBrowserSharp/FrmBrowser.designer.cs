@@ -1,4 +1,4 @@
-﻿namespace WebBrowser
+﻿namespace WebBrowserSharp
 {
     partial class FrmBrowser
     {
